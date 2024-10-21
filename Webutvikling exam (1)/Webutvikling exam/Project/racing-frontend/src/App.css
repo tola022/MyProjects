@@ -1,0 +1,12 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0; /* Remove default body margin */
+  padding: 0; /* Remove default body padding */
+  background-image: url('/public/f1bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
